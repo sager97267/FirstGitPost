@@ -1,4 +1,18 @@
 span {
     font-size: 15rem;
+
     
+}
+
+body{
+    background-color: rgb(20, 55, 58);
+    display: flex;
+justify-content: center;    
+height:100vh;
+
+}
+
+.letter{
+    transition: color 1000ms;
+}
 }
